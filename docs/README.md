@@ -1,6 +1,6 @@
 # Go Disco Documentation
 
-![logo](img/logo-small.png)
+![logo](img/logo.png)
 The go-disco client can help you synchronize your local music library with your
 Spotify account. It can help you keep your local tracks in a coherent state with
 your Spotify account, and reverse.
